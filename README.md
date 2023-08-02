@@ -1,6 +1,6 @@
 # Google Home Page Clone using Tailwind CS
 
-![Google Home Page Clone](screenshot.png)
+![google homepage clone](https://github.com/Tharakaez/google-homepage-clone/assets/100085288/bc78be85-1068-439d-9742-27d953344aed)
 
 This repository contains a Google Home Page clone created using Tailwind CSS, a utility-first CSS framework. The project aims to recreate the familiar and iconic Google search interface, providing a functional and visually appealing imitation of the original page.
 
